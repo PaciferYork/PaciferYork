@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
 
-- 📫 Reach me at my **[Mail](mailto:ypacifer@gmail.com)**
+- 📫 Reach me at my <a href="mailto:ypacifer@gmail.com">Mail</a> 
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
