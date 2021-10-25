@@ -6,17 +6,20 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on **[Improving my Project.](paciferyork.github.com/CodeSorcerer)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently **Developing my Python Skills.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+<!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
+<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
 
 - 📫 Reach me at my <a href="mailto:ypacifer@gmail.com">Mail</a> 
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact about me- **I love reading Heist, crime novels and Theories**
+
+- 😍 My favourite Novels- 
+     Web Series- [Lupin(Netflix)](https://g.co/kgs/F2Gz9x) and [Dark(Amazon Prime)](https://g.co/kgs/VFqRH1)
 
 ## 🚀 Languages and Tools:
 
