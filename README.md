@@ -79,7 +79,6 @@ Thankyou harry sir.
 <br/>
 <br/>
 
-<a href="https://github.com/PaciferYork/github-readme-activity-graph"><img alt="PaciferYork's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PaciferYork&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
