@@ -3,6 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kunal</h1>
 <h4 align="center">I'm a passionate Front-end Dev, India.</h4>
 <hr>
+<br>
 
 ## 🙋‍♂️ About Me   
 
@@ -20,9 +21,24 @@
 
 - 😍 My favourite Novels- 
      Web Series- [Lupin(Netflix)](https://g.co/kgs/F2Gz9x) and [Dark(Amazon Prime)](https://g.co/kgs/VFqRH1)
+<br>
 
-## 🚀 Languages and Tools:
+## 🚀 Tools that helped me a lot:
+[***Sololearn***](www.sololearn.com) - It Helped me side-by-side improving my productivity ans coding skills by giving me proper practises, code coaches, programmes to write, and reminders to challange other people with firing weapons(languages).
+[***MDN CSS Reference***](developer.mozilla.org) - This tool is really helpful in my journey of building 
+Self-confidence that I can anything related to frontend.
+[***CodeWithHarry***](https://www.youtube.com/c/CodeWithHarry) - A youtube chanell started 3-4 years ago. with 0 subscribers grew up and a week ago touched 2 million. Harry is the one who solved my doubts late night while coding. he guided me for free. A Course which costs around RS.100k, he gave us free with hands-on exersices and quizzes. Currently I am Learning Python from his playlists.
+Everyone must watch his [this video](https://youtu.be/-OXr-5-82Og) - Road to 1 million.
+I want to say a very big Thankyou but, unfortunately, I don't have your number.
+Also, I must never say you a Tool , but I have mentioned your YT Chanell as a tool.
+Thankyou harry sir.
 
+
+
+
+<br>
+
+## 🔡 My fire Languages:
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
