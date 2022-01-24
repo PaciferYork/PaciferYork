@@ -95,5 +95,5 @@ Thankyou harry sir.
 
 </p>
 
-## 📊 My Portfolio
-[Check out my portfolio and contact me.](https://paciferyork.github.io)
+## 📊 All my info.
+[My Tree](linktr.ee/paciferyork)
